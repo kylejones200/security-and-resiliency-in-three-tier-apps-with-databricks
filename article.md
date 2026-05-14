@@ -43,10 +43,10 @@ This ensures least-privilege access. The application only sees what it needs. Th
 ### Built-In Resiliency
 Databricks inherits the resiliency of the underlying cloud (AWS, Azure, GCP). That means multi-zone clusters, automatic failover, and elastic scaling. But resiliency goes deeper in the data tier itself.
 
-- **Delta Lake** guarantees ACID transactions. If a pipeline fails mid-write, the table remains consistent.
-- **Checkpointing** in structured streaming ensures no double-counting or data loss.
-- **Auto-scaling clusters** handle bursts of load without downtime.
-- **Versioned data** enables time travel queries for fast recovery.
+- Delta Lake guarantees ACID transactions. If a pipeline fails mid-write, the table remains consistent.
+- Checkpointing in structured streaming ensures no double-counting or data loss.
+- Auto-scaling clusters handle bursts of load without downtime.
+- Versioned data enables time travel queries for fast recovery.
 
 ### Example: Resilient Streaming Pipeline
 ```python

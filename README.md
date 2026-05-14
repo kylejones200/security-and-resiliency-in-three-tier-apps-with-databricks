@@ -1,7 +1,7 @@
 # Security and Resiliency in Three Tier Apps with Databricks
 
-**Published:** 2025-09-18
-**Medium:** [https://medium.com/@kyle-t-jones/security-and-resiliency-in-three-tier-apps-with-databricks-593003409466](https://medium.com/@kyle-t-jones/security-and-resiliency-in-three-tier-apps-with-databricks-593003409466)
+Published: 2025-09-18
+Medium: [https://medium.com/@kyle-t-jones/security-and-resiliency-in-three-tier-apps-with-databricks-593003409466](https://medium.com/@kyle-t-jones/security-and-resiliency-in-three-tier-apps-with-databricks-593003409466)
 
 ## About
 
