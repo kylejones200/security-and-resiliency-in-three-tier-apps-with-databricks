@@ -11,14 +11,7 @@ But in practice, the data tier is the hardest to secure and the easiest to break
 
 Databricks flips this script. By unifying data, governance, and compute on one platform, it makes the data tier the strongest part of the three-tier stack. Security is enforced end-to-end. Resiliency is built in at scale.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
